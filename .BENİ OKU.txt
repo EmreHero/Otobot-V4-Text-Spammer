@@ -1,0 +1,1 @@
+dist klasöründeki "başlat.bat" dosyasını açarak çalıştırabilirsiniz. 
